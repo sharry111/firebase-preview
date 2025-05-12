@@ -1,4 +1,11 @@
 {
+  "name": "firebase-preview",
+  "version": "1.0.0",
+  "description": "A basic Firebase preview project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "firebase": "^11.7.1"
   }
